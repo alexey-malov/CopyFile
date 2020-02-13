@@ -168,6 +168,7 @@
   <ItemGroup>
     <Text Include="Empty.txt" />
     <Text Include="input.txt" />
+    <Text Include="NonEmptyFile.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CopyFile.h" />
